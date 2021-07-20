@@ -1,0 +1,165 @@
+body{
+  color:darkblue; 
+  background-color:rgba(205, 217, 224, 0.808); 
+  margin:0%;
+}
+.maincontainer{
+  margin-top:10%
+}
+.regcontainer{
+  margin-top:7%
+}
+.logincontainer{
+  margin-top:10%
+}
+.regblock{
+  width:350px; 
+  margin: auto
+}
+.loginblock{
+  width:285px; 
+  margin: auto
+}
+.block{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10%; 
+  font-family: calibri; 
+  color:rgba(11, 30, 41, 0.808); 
+  background-color:white; 
+  border: 2px solid white; 
+  padding: 10px;
+  text-align: center
+}
+.maintitleblock{
+  text-align:center; 
+  letter-spacing:5px; 
+  color: red;
+  text-shadow: 1px 1px 3px #000000;
+}
+.logintitleblock{
+  text-align: center; 
+  letter-spacing: 5px; 
+  color:darkblue; 
+  text-shadow: 1px 1px 3px #000000
+}
+/* NavBar */
+.topnav 
+{
+  overflow: hidden;
+  background-color: darkblue;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #00E9FF;
+  text-align: center;
+  padding: 6px 16px;
+  text-decoration: none;
+}
+.topnav a:hover 
+{
+  color: black; background-color:yellow
+}
+div.sticky {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      background-color:transparent;
+      border: 3px solid white;
+      padding: 5px;
+      font-size: 18px;
+      font-family:calibri;
+      animation: myfirst 10s 100000000; 
+}
+.sessionmsg{
+  font-family: calibri; 
+  color:darkblue; 
+  text-align: center
+}
+.textbox{
+  background-color:rgba(205, 217, 224, 0.808);
+}
+.button{
+  font-family: calibri; 
+  font-size: 15px; 
+  color:white;
+  background-color: red; 
+  border: 2px solid white; 
+  border-radius: 50px;
+  width: 100%
+}
+.button:hover{
+  color:white; 
+  background-color: rgb(12,175,94); 
+  border: 2px solid white;
+  opacity: 0.8;
+}
+.link a{
+  font-family: calibri; 
+  font-size: 15px; color:white; 
+  background-color: darkblue; 
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 50px;
+  width: 50px
+}
+.link a:hover{
+  color:white; 
+  background-color: rgb(12,175,94); 
+  border:2px solid white;
+  opacity: 0.8;
+}
+.mainlink a{ 
+  margin: auto;
+  width: 35%;
+  background-color: red
+}
+.fa {
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+  width: 7%
+  }  
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+  .fa-instagram {
+    background: rgba(231, 24, 145, 0.932);
+    color: white;
+}
+.social{
+  margin: auto;
+  width: 85%;
+  text-align: center;
+}
+#footer
+{
+  color: #00E9FF; 
+  font-family: calibri; 
+  background-color: darkblue; 
+  height:80px; margin:0%; 
+  opacity: 0.8;
+  text-align:center;
+  padding:50px;
+  margin-top:12%
+}
