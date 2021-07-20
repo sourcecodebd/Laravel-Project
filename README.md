@@ -6,6 +6,9 @@ http://nafi.epizy.com/E-Pay
 
 [author1]: https://sourcecodebd.github.io/nafi.com/
 [author2]: https://www.facebook.com/emon.chowdhury017
+
+E-Pay, a payment app for the customers, made with growing PHP framework Laravel. Feel free to check the live site as well as the source code. E-Pay is a financial service in Bangladesh that allows users to make financial transactions through their mobile phones. More than depositing money into your mobile accounts, you can also access a range of services, particularly transferring and receiving money domestically. You can also use the website to make payments for your utilities, such as mobile bills—both prepaid and postpaid.
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
