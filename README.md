@@ -1,4 +1,4 @@
-# E-Pay
+# E-Pay with Laravel
 
 ## Site-Link 
 http://nafi.epizy.com/E-Pay
